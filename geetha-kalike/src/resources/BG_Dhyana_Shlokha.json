@@ -1,0 +1,436 @@
+{
+    "data": [
+        {
+            "begin": "0",
+            "children": [],
+            "end": "7.24",
+            "id": "HEAD",
+            "language": null,
+            "lines": []
+        },
+        {
+            "begin": "7.24",
+            "children": [],
+            "end": "15.02",
+            "id": "f000001",
+            "language": "kan",
+            "lines": ["ಓಂ ಪಾರ್ಥಾಯ ಪ್ರತಿಬೋಧಿತಾಂ ಭಗವತಾ"]
+        },
+        {
+            "begin": "15.02",
+            "children": [],
+            "end": "20",
+            "id": "f000002",
+            "language": "kan",
+            "lines": ["ನಾರಾಯಣೇನ ಸ್ವಯಂ ।"]
+        },
+        {
+            "begin": "20",
+            "children": [],
+            "end": "26.18",
+            "id": "f000003",
+            "language": "kan",
+            "lines": ["ವ್ಯಾಸೇನ ಗ್ರಥಿತಾಂ ಪುರಾಣಮುನಿನಾ"]
+        },
+        {
+            "begin": "26.18",
+            "children": [],
+            "end": "31.22",
+            "id": "f000004",
+            "language": "kan",
+            "lines": ["ಮಧ್ಯೇಮಹಾಭಾರತಂ ॥ 1 ॥"]
+        },
+        {
+            "begin": "31.22",
+            "children": [],
+            "end": "31.52",
+            "id": "f000005",
+            "language": "kan",
+            "lines": [""]
+        },
+        {
+            "begin": "31.52",
+            "children": [],
+            "end": "38.4",
+            "id": "f000006",
+            "language": "kan",
+            "lines": ["ಅದ್ವೈತಾಮೃತವರ್ಷಿಣೀಂ ಭಗವತೀಮ್"]
+        },
+        {
+            "begin": "38.4",
+            "children": [],
+            "end": "43.3",
+            "id": "f000007",
+            "language": "kan",
+            "lines": ["ಅಷ್ಟಾದಶಾಧ್ಯಾಯಿನೀಂ ।"]
+        },
+        {
+            "begin": "43.3",
+            "children": [],
+            "end": "47.9",
+            "id": "f000008",
+            "language": "kan",
+            "lines": ["ಅಂಬ ತ್ವಾಮನುಸಂದಧಾಮಿ"]
+        },
+        {
+            "begin": "47.9",
+            "children": [],
+            "end": "53.32",
+            "id": "f000009",
+            "language": "kan",
+            "lines": ["ಭಗವದ್ಗೀತೇ ಭವೇದ್ವೇಷಿಣೀಂ  ॥ 2 ॥"]
+        },
+        {
+            "begin": "53.32",
+            "children": [],
+            "end": "55.76",
+            "id": "f000010",
+            "language": "kan",
+            "lines": [""]
+        },
+        {
+            "begin": "55.76",
+            "children": [],
+            "end": "61.64",
+            "id": "f000011",
+            "language": "kan",
+            "lines": ["ನಮೋಽಸ್ತು ತೇ ವ್ಯಾಸ ವಿಶಾಲಬುದ್ಧೇ"]
+        },
+        {
+            "begin": "61.64",
+            "children": [],
+            "end": "67.38",
+            "id": "f000012",
+            "language": "kan",
+            "lines": ["ಫುಲ್ಲಾರವಿಂದಾಯತಪತ್ರನೇತ್ರ ।"]
+        },
+        {
+            "begin": "67.38",
+            "children": [],
+            "end": "73.92",
+            "id": "f000013",
+            "language": "kan",
+            "lines": ["ಯೇನ ತ್ವಯಾ ಭಾರತತೈಲಪೂರ್ಣಃ"]
+        },
+        {
+            "begin": "73.92",
+            "children": [],
+            "end": "83",
+            "id": "f000014",
+            "language": "kan",
+            "lines": ["ಪ್ರಜ್ವಾಲಿತೋ ಜ್ಞಾನಮಯಃ ಪ್ರದೀಪಃ ॥ 3 ॥"]
+        },
+        {
+            "begin": "83",
+            "children": [],
+            "end": "83.04",
+            "id": "f000015",
+            "language": "kan",
+            "lines": [""]
+        },
+        {
+            "begin": "83.04",
+            "children": [],
+            "end": "86.68",
+            "id": "f000016",
+            "language": "kan",
+            "lines": ["ಪ್ರಪನ್ನಪಾರಿಜಾತಾಯ"]
+        },
+        {
+            "begin": "86.68",
+            "children": [],
+            "end": "91.76",
+            "id": "f000017",
+            "language": "kan",
+            "lines": ["ತೋತ್ರವೇತ್ರೈಕಪಾಣಯೇ ।"]
+        },
+        {
+            "begin": "91.76",
+            "children": [],
+            "end": "96.92",
+            "id": "f000018",
+            "language": "kan",
+            "lines": ["ಜ್ಞಾನಮುದ್ರಾಯ ಕೃಷ್ಣಾಯ"]
+        },
+        {
+            "begin": "96.92",
+            "children": [],
+            "end": "102.26",
+            "id": "f000019",
+            "language": "kan",
+            "lines": ["ಗೀತಾಮೃತದುಹೇ ನಮಃ ॥ 4 ॥"]
+        },
+        {
+            "begin": "102.26",
+            "children": [],
+            "end": "104.46",
+            "id": "f000020",
+            "language": "kan",
+            "lines": [""]
+        },
+        {
+            "begin": "104.46",
+            "children": [],
+            "end": "108.7",
+            "id": "f000021",
+            "language": "kan",
+            "lines": ["ವಸುದೇವಸುತಂ ದೇವಂ"]
+        },
+        {
+            "begin": "108.7",
+            "children": [],
+            "end": "113.28",
+            "id": "f000022",
+            "language": "kan",
+            "lines": ["ಕಂಸಚಾಣೂರಮರ್ದನಂ ।"]
+        },
+        {
+            "begin": "113.28",
+            "children": [],
+            "end": "119.28",
+            "id": "f000023",
+            "language": "kan",
+            "lines": ["ದೇವಕೀಪರಮಾನಂದಂ"]
+        },
+        {
+            "begin": "119.28",
+            "children": [],
+            "end": "124.82",
+            "id": "f000024",
+            "language": "kan",
+            "lines": ["ಕೃಷ್ಣಂ ವಂದೇ ಜಗದ್ಗುರುಂ ॥ 5 ॥"]
+        },
+        {
+            "begin": "124.82",
+            "children": [],
+            "end": "127.16",
+            "id": "f000025",
+            "language": "kan",
+            "lines": [""]
+        },
+        {
+            "begin": "127.16",
+            "children": [],
+            "end": "133.08",
+            "id": "f000026",
+            "language": "kan",
+            "lines": ["ಭೀಷ್ಮದ್ರೋಣತಟಾ ಜಯದ್ರಥಜಲಾ"]
+        },
+        {
+            "begin": "133.08",
+            "children": [],
+            "end": "138.08",
+            "id": "f000027",
+            "language": "kan",
+            "lines": ["ಗಾಂಧಾರನೀಲೋತ್ಪಲಾ ।"]
+        },
+        {
+            "begin": "138.08",
+            "children": [],
+            "end": "144.32",
+            "id": "f000028",
+            "language": "kan",
+            "lines": ["ಶಲ್ಯಗ್ರಾಹವತೀ ಕೃಪೇಣ ವಹನೀ"]
+        },
+        {
+            "begin": "144.32",
+            "children": [],
+            "end": "148.64",
+            "id": "f000029",
+            "language": "kan",
+            "lines": ["ಕರ್ಣೇನ ವೇಲಾಕುಲಾ ॥ 6 ॥"]
+        },
+        {
+            "begin": "148.64",
+            "children": [],
+            "end": "150.68",
+            "id": "f000030",
+            "language": "kan",
+            "lines": [""]
+        },
+        {
+            "begin": "150.68",
+            "children": [],
+            "end": "156.52",
+            "id": "f000031",
+            "language": "kan",
+            "lines": ["ಅಶ್ವತ್ಥಾಮವಿಕರ್ಣಘೋರಮಕರಾ"]
+        },
+        {
+            "begin": "156.52",
+            "children": [],
+            "end": "161.4",
+            "id": "f000032",
+            "language": "kan",
+            "lines": ["ದುರ್ಯೋಧನಾವರ್ತಿನೀ ।"]
+        },
+        {
+            "begin": "161.4",
+            "children": [],
+            "end": "167.98",
+            "id": "f000033",
+            "language": "kan",
+            "lines": ["ಸೋತ್ತೀರ್ಣಾ ಖಲು ಪಾಂಡವೈ ರಣನದೀ"]
+        },
+        {
+            "begin": "167.98",
+            "children": [],
+            "end": "172.58",
+            "id": "f000034",
+            "language": "kan",
+            "lines": ["ಕೈವರ್ತಕಃ ಕೇಶವಃ ॥ 7 ॥"]
+        },
+        {
+            "begin": "172.58",
+            "children": [],
+            "end": "174.46",
+            "id": "f000035",
+            "language": "kan",
+            "lines": [""]
+        },
+        {
+            "begin": "174.46",
+            "children": [],
+            "end": "179.88",
+            "id": "f000036",
+            "language": "kan",
+            "lines": ["ಪಾರಾಶರ್ಯವಚಃ ಸರೋಜಮಮಲಂ"]
+        },
+        {
+            "begin": "179.88",
+            "children": [],
+            "end": "185.22",
+            "id": "f000037",
+            "language": "kan",
+            "lines": ["ಗೀತಾರ್ಥಗಂಧೋತ್ಕಟಂ ।"]
+        },
+        {
+            "begin": "185.22",
+            "children": [],
+            "end": "193.04",
+            "id": "f000038",
+            "language": "kan",
+            "lines": ["ನಾನಾಖ್ಯಾನಕಕೇಸರಂ ಹರಿಕಥಾ"]
+        },
+        {
+            "begin": "193.04",
+            "children": [],
+            "end": "196.18",
+            "id": "f000039",
+            "language": "kan",
+            "lines": ["ಸಂಬೋಧನಾಬೋಧಿತಂ ॥ 8 ॥"]
+        },
+        {
+            "begin": "196.18",
+            "children": [],
+            "end": "198.12",
+            "id": "f000040",
+            "language": "kan",
+            "lines": [""]
+        },
+        {
+            "begin": "198.12",
+            "children": [],
+            "end": "204.18",
+            "id": "f000041",
+            "language": "kan",
+            "lines": ["ಲೋಕೇ ಸಜ್ಜನಷಟ್ಪದೈರಹರಹಃ"]
+        },
+        {
+            "begin": "204.18",
+            "children": [],
+            "end": "209.06",
+            "id": "f000042",
+            "language": "kan",
+            "lines": ["ಪೇಪೀಯಮಾನಂ ಮುದಾ ।"]
+        },
+        {
+            "begin": "209.06",
+            "children": [],
+            "end": "215.68",
+            "id": "f000043",
+            "language": "kan",
+            "lines": ["ಭೂಯಾದ್ಭಾರತಪಂಕಜಂ ಕಲಿಮಲ"]
+        },
+        {
+            "begin": "215.68",
+            "children": [],
+            "end": "219.84",
+            "id": "f000044",
+            "language": "kan",
+            "lines": ["ಪ್ರಧ್ವಂಸಿ ನಃ ಶ್ರೇಯಸೇ ॥ 9 ॥"]
+        },
+        {
+            "begin": "219.84",
+            "children": [],
+            "end": "221.98",
+            "id": "f000045",
+            "language": "kan",
+            "lines": [""]
+        },
+        {
+            "begin": "221.98",
+            "children": [],
+            "end": "226.38",
+            "id": "f000046",
+            "language": "kan",
+            "lines": ["ಮೂಕಂ ಕರೋತಿ ವಾಚಾಲಂ"]
+        },
+        {
+            "begin": "226.38",
+            "children": [],
+            "end": "231.72",
+            "id": "f000047",
+            "language": "kan",
+            "lines": ["ಪಂಗುಂ ಲಂಘಯತೇ ಗಿರಿಂ ।"]
+        },
+        {
+            "begin": "231.72",
+            "children": [],
+            "end": "237",
+            "id": "f000048",
+            "language": "kan",
+            "lines": ["ಯತ್ಕೃಪಾ ತಮಹಂ ವಂದೇ"]
+        },
+        {
+            "begin": "237",
+            "children": [],
+            "end": "252.58",
+            "id": "f000049",
+            "language": "kan",
+            "lines": ["ಪರಮಾನಂದಮಾಧವಂ ॥ 10 ॥"]
+        },
+        {
+            "begin": "252.58",
+            "children": [],
+            "end": "257.28",
+            "id": "f000050",
+            "language": "kan",
+            "lines": [""]
+        },
+        {
+            "begin": "257.28",
+            "children": [],
+            "end": "257.28",
+            "id": "f000051",
+            "language": "kan",
+            "lines": [""]
+        },
+        {
+            "begin": "257.28",
+            "children": [],
+            "end": "259.32",
+            "id": "f000052",
+            "language": "kan",
+            "lines": [""]
+        },
+        {
+            "begin": "259.32",
+            "children": [],
+            "end": "259.344",
+            "id": "TAIL",
+            "language": null,
+            "lines": []
+        }
+    ]
+}

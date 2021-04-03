@@ -1,0 +1,201 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+// Global Variables (Theme)
+// Colors
+$primary-color: #29c7ca;
+$lightShade-color: #f0f2ec;
+$lightAccent-color: #828583;
+$darkShade-color: #473f44;
+$darkAccent-color: rgba(0, 0, 0, 0.753);
+
+//fonts
+$primary-font: "Roboto", sans-serif;
+$code-font: "Maven Pro", serif;
+$brand-font: "Neue Helvetica", cursive;
+
+// Icons
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+// Font imports
+@import url("https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre|Maven+Pro|Roboto");
+
+.navbar {
+position: fixed;
+top:0;
+width:100%;
+  display: grid;
+  grid-template-columns: repeat(13, 1fr);
+  column-gap: 20px;
+  padding: 0 20px 0 20px;
+
+  .navbar-background {
+    grid-column: 1 / span 13;
+    grid-row: 1/1;
+    z-index: -1;
+    margin: 0 -20px 0 -20px;
+    background-color: white;
+    min-height: 60px;
+  }
+
+  .drawer-icon {
+    grid-column: 1 / span 1;
+    grid-row: 1;
+    display: none;
+    visibility: hidden;
+    font-family: "Material Icons";
+    font-weight: normal;
+    font-style: normal;
+    font-size: 32px;
+    display: inline-block;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+    align-self: center;
+    color: #29c7ca;
+
+    /* Support for all WebKit browsers. */
+    -webkit-font-smoothing: antialiased;
+    /* Support for Safari and Chrome. */
+    text-rendering: optimizeLegibility;
+
+    /* Support for Firefox. */
+    -moz-osx-font-smoothing: grayscale;
+
+    /* Support for IE. */
+    font-feature-settings: "liga";
+
+    @media only screen and (max-width: 1000px) {
+      display: block;
+      visibility: visible;
+    }
+  }
+
+  .brand {
+    font-family: $brand-font;
+    color:  #29c7ca;
+    grid-column: 2 / span 3;
+    grid-row: 1;
+    align-self: center;
+    margin: auto;
+    white-space: nowrap;
+
+    @media only screen and (max-width: 1400px) {
+      grid-column: 1 / span 3;
+    }
+
+    @media only screen and (max-width: 1000px) {
+      grid-column: 1 / span 13;
+      justify-content: center;
+    }
+  }
+
+  .buttons-wrapper {
+    display: flex;
+    grid-column: 1 / span 13;
+    grid-row: 1;
+    justify-self: center;
+    align-self: stretch;
+    align-items: stretch;
+    height: auto;
+    z-index: 1;
+
+    button {
+      font-family: $primary-font;
+      font-size: 14px;
+      background-color: $primary-color;
+      color: $darkShade-color;
+      width: 86px;
+      border: 0;
+      border-left: 1px solid $darkShade-color;
+
+      &:nth-last-child(1) {
+        border-right: 1px solid $darkShade-color;
+      }
+
+      &:hover,
+      &:focus {
+        background-color: darken($primary-color, 10%);
+        outline: none;
+      }
+    }
+
+    a {
+      color: $darkShade-color;
+      text-decoration: none;
+    }
+
+    @media only screen and (max-width: 1000px) {
+      display: none;
+    }
+  }
+
+  .drawer {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+    height: 100vh;
+    top: 100%;
+
+    .drawer-menu {
+      display: inline-flex;
+      flex-direction: column;
+      justify-content: stretch;
+      background-color: $primary-color;
+      width: 70%;
+      z-index: 2;
+
+      button {
+        font-family: $primary-font;
+        font-size: 14px;
+        background-color: $primary-color;
+        color: $darkShade-color;
+        border: 0;
+        border-top: 1px solid $darkShade-color;
+        height: 60px;
+
+        &:nth-last-child(1) {
+          border-bottom: 1px solid $darkShade-color;
+        }
+
+        &:hover,
+        &:focus {
+          background-color: darken($primary-color, 10%);
+          outline: none;
+        }
+      }
+
+      a {
+        color: $darkShade-color;
+        text-decoration: none;
+      }
+    }
+
+    .drawer-tapout-area {
+      $bg-color: black;
+      position: absolute;
+      display: inline-block;
+      width: 100%;
+      height: 100%;
+      background-color: rgba($bg-color, 0.5);
+      animation: fadeIn 500ms ease-in;
+      z-index: 1;
+
+      @keyframes fadeIn {
+        0% {
+          background-color: transparent;
+        }
+        100% {
+          background-color: rgba($bg-color, 0.5);
+        }
+      }
+    }
+  }
+}
